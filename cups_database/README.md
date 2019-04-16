@@ -16,6 +16,12 @@ If you do not have docker installed, you can find details [here](https://docs.do
 
 # Queries
 
-- Number of orders sold by month
+- All orders of item type "Cup" 
 - Details of order with id of 03d7f59b-287f-427e-b483-1c59d799f464  
 - Total revenue generated for month of February
+
+# Useful links
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-index_.html
+https://www.elastic.co/guide/en/elasticsearch/reference/current/docs-get.html
+https://www.elastic.co/guide/en/elasticsearch/reference/current/search.html

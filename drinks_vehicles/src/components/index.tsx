@@ -14,7 +14,7 @@ export const ItemComponent: FunctionComponent<Item> = (item) => (
 export const BasketComponent: FunctionComponent<({items: Item[], total: number})> = ({ items, total }) => (
     <div>
         <div>
-            $ {total}
+            £ {total}
         </div>
         <div>
             {items.map(ItemComponent)}
